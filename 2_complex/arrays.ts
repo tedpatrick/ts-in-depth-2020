@@ -5,4 +5,4 @@ names.push( 'baz' );
 
 let ages: number[ ] = [ ];
 ages.push( 42 );
-// ages.push( '23' ); //error
+//ages.push( '23' ); //erro
